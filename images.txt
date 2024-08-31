@@ -1,6 +1,6 @@
 nginx
 redis
-rocketmq-broker:4.9.0
+apache/rocketmq:4.9.1
 #支持私库
 
 #支持指定架构
