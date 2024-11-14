@@ -2,6 +2,7 @@ nginx
 redis
 apache/rocketmq:4.9.1
 linuxserver/emby:4.8.10
+gdy666/lucky:latest
 #支持私库
 
 #支持指定架构
